@@ -1,4 +1,4 @@
-﻿namespace MethodAndReturnType
+﻿namespace MEthodAndReturnType
 {
     public class Program
     {
